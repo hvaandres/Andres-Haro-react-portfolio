@@ -1,2 +1,1 @@
-# Jordan Hudgens React Portfolio Application
-
+# This is created and developed by Andres Haro
